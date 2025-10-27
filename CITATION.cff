@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Medeiros"
+    given-names: "Lucas"
+    orcid: "https://orcid.org/0009-0002-3974-6339"
+title: "Mixed Fermentation Model with Reinforcement Learning"
+version: 1.0.0
+date-released: 2025-01-26
+url: "https://github.com/Lucas-Medeiros29/mixed-fermentation-rl"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Medeiros"
+      given-names: "Lucas"
+  title: "Hybrid Biological-Chemical Fermentation Optimization via Reinforcement Learning"
+  journal: "Journal Name"
+  year: 2025
+  status: "under review"
